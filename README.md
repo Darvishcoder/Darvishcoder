@@ -2,7 +2,7 @@
 - 👀 I’m interested in java with DSA
 - 🌱 I’m currently learning full stack devlopement
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me @linkedin.com/in/darvish-kishor-195a53211
+- 📫 How to reach me HTTPS://linkedin.com/in/darvish-kishor-195a53211
 
 <!---
 Darvishcoder/Darvishcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
