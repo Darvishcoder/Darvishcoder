@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darvishcoder
 - 👀 I’m interested in java with DSA
-- 🌱 I’m currently learning full stack devlopement
+- 🌱 I’m currently learning full stack devlopement (Java)
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me HTTPS://linkedin.com/in/darvish-kishor-195a53211
 
