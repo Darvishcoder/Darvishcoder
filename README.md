@@ -1,11 +1,9 @@
+![logo](https://github.com/Darvishcoder/Darvishcoder/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Darvish Kishor</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darvishcoder&label=Profile%20views&color=0e75b6&style=flat" alt="darvishcoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darvishcoder" alt="darvishcoder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -30,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darvishcoder&show_icons=true&locale=en" alt="darvishcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darvishcoder&" alt="darvishcoder" /></p>
+
 
 <!---
 Darvishcoder/Darvishcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
