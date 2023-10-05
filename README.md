@@ -1,4 +1,5 @@
 ![logo](https://github.com/Darvishcoder/Darvishcoder/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+[![An image of @darvishcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darvishcoder)](https://holopin.io/@darvishcoder)
 <h1 align="center">Hi 👋, I'm Darvish Kishor</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
