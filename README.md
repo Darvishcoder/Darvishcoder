@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java with system Design**
+- 🌱 I’m currently learning **Java with system Design , DSA , SpringBoot**
 
-- 📫 How to reach me **darvish9905068483@gmail.com**
+- 📫 How to reach me **darvish9534@gmail.com**
 
 - ⚡ Fun fact **People think I am an Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/darvish kishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darvish kishor" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/darvish kishor](https://www.linkedin.com/in/darvish-kishor-195a53211/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darvish kishor" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/darvish_kishor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/darvish_kishor/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/darvishcoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/darvishcoder/" height="30" width="40" /></a>
 </p>
